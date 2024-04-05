@@ -1,2 +1,2 @@
-# weather_application
+# WeatherApplication
 Weather application on C++
